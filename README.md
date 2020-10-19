@@ -1,4 +1,3 @@
-# template-compose-pkg
+# \\compose\\ package: Duckietown ROS
 
-This is a template to help you create new \\compose\\
-packages.
+\\compose\\ package with tools and utilities for supporting ROS in Duckietown.
